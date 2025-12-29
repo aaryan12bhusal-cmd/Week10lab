@@ -1,4 +1,4 @@
-`name: Deploy to ASGG
+name: Deploy to ASG
 
 on:
   push:
